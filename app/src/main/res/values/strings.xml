@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cupcake_Taufan</string>
+    <string name="order_cupcakes">Pesan Disini</string>
+    <string name="one_cupcake">Satu Capcake</string>
+    <string name="six_cupcakes">Enam Cupcake</string>
+    <string name="twelve_cupcakes">Dua Belas Cupcake</string>
+    <string name="choose_flavor">Pilih Rasa</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string name="special_flavor">Special Flavor</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="choose_pickup_date">Pilih Tanggal Pengambilan</string>
+    <string name="order_summary">Ringkasan Pesanan</string>
+    <string name="send">Kirim Pesanan ke Aplikasi Lain</string>
+    <string name="quantity">Jumlah Pesanan</string>
+    <string name="flavor">Rasa</string>
+    <string name="pickup_date">Tanggal Pengambilan</string>
+    <string name="subtotal_price">Subtotal %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="new_cupcake_order">Pesanan Baru</string>
+    <string name="order_details">Jumlah Pesanan: %1$s \n Rasa: %2$s \nTanggal Pengambilan: %3$s \n
+        Total: %4$s \n\n Thank you!</string>
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>
